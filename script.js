@@ -10,8 +10,8 @@ for (i;i<iterate+1;i++){
  
 }
 document.getElementById("result").innerHTML=data;
-// tableOff.value="";
-// Iterate.value="";
+tableOff.value="";
+Iterate.value="";
 }
 
 
